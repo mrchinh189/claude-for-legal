@@ -186,9 +186,9 @@ After install, skills fire automatically when relevant, slash commands are avail
 /plugin marketplace add <path-to-this-repo>
 
 # Install a plugin — pick the ones that match your practice
-/plugin install commercial-legal@claude-for-legal
-/plugin install privacy-legal@claude-for-legal
-/plugin install corporate-legal@claude-for-legal
+/plugin install commercial-legal@legal-mrchinh189
+/plugin install privacy-legal@legal-mrchinh189
+/plugin install corporate-legal@legal-mrchinh189
 
 # Restart Claude Code, then run setup for each plugin you installed.
 # This writes your practice profile to ~/.claude/plugins/config/claude-for-legal/<plugin>/CLAUDE.md
@@ -337,6 +337,8 @@ The Excel-facing skills produce workbooks that open cleanly: `corporate-legal:ta
 Install Claude for Microsoft 365 from **[Microsoft AppSource](https://marketplace.microsoft.com/en-us/product/office/wa200010453)**. Once installed, the skills from any plugin you've enabled are available from the sidebar via `/`, and connectors are reachable from the same surface. A single thread can span Word, Excel, PowerPoint, and Outlook.
 
 For IT admins deploying the add-in against your own cloud (Vertex AI, Bedrock, or an internal gateway) rather than Anthropic's API, see the separate [`claude-for-msft-365-install`](https://github.com/anthropics/financial-services/tree/main/claude-for-msft-365-install) tooling.
+
+Rolling this out to a legal team on Microsoft 365? See **[DEPLOYMENT-M365.md](DEPLOYMENT-M365.md)** for a step-by-step deployment guide and IT/admin rollout checklist.
 
 ## Making It Yours
 
