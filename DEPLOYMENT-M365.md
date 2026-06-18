@@ -186,6 +186,7 @@ giữ nguyên numbering, defined terms, cross-reference và styles.
 ## 8. Tham chiếu
 
 - [DEPLOYMENT-M365-CHECKLIST.md](DEPLOYMENT-M365-CHECKLIST.md) — checklist công việc theo pha.
+- [DEPLOYMENT-M365-PERSONAL.md](DEPLOYMENT-M365-PERSONAL.md) — cài cá nhân trên Office 365 Personal (không cần IT).
 - [DEPLOYMENT-M365-LAWYER-GUIDE.md](DEPLOYMENT-M365-LAWYER-GUIDE.md) — hướng dẫn 1 trang cho luật sư.
 - [DEPLOYMENT-M365-IT-SOP.md](DEPLOYMENT-M365-IT-SOP.md) — quy trình chuẩn cho IT/admin.
 - [QUICKSTART.md](QUICKSTART.md) — cài trong 60 giây (Claude Code/Cowork).
