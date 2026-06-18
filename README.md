@@ -338,6 +338,8 @@ Install Claude for Microsoft 365 from **[Microsoft AppSource](https://marketplac
 
 For IT admins deploying the add-in against your own cloud (Vertex AI, Bedrock, or an internal gateway) rather than Anthropic's API, see the separate [`claude-for-msft-365-install`](https://github.com/anthropics/financial-services/tree/main/claude-for-msft-365-install) tooling.
 
+Rolling this out to a legal team on Microsoft 365? See **[DEPLOYMENT-M365.md](DEPLOYMENT-M365.md)** for a step-by-step deployment guide and IT/admin rollout checklist.
+
 ## Making It Yours
 
 These are reference templates. They get better when you tune them to how your team works — and the customization mechanism is the plugin itself, not a config file buried in a repo.
