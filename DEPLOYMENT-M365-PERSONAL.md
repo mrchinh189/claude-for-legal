@@ -47,17 +47,17 @@ Mở **Claude Code** (terminal) hoặc **Claude Cowork** (desktop) một lần:
 ### 3. Cài plugin theo việc bạn làm — chọn **USER scope**
 
 ```
-/plugin install commercial-legal@claude-for-legal
+/plugin install commercial-legal@legal-mrchinh189
 ```
 
 Thêm plugin khác nếu cần (mỗi mảng một dòng):
 
 ```
-/plugin install corporate-legal@claude-for-legal
-/plugin install privacy-legal@claude-for-legal
-/plugin install ip-legal@claude-for-legal
-/plugin install ai-governance-legal@claude-for-legal
-/plugin install litigation-legal@claude-for-legal
+/plugin install corporate-legal@legal-mrchinh189
+/plugin install privacy-legal@legal-mrchinh189
+/plugin install ip-legal@legal-mrchinh189
+/plugin install ai-governance-legal@legal-mrchinh189
+/plugin install litigation-legal@legal-mrchinh189
 ```
 
 > Khi được hỏi scope, chọn **USER scope** (không phải project scope) — nếu không,

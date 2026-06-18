@@ -49,12 +49,12 @@ Nguồn cài chính thức — công bố cho người dùng:
 Tập plugin tối thiểu cho M365 (cài **USER scope**):
 
 ```
-/plugin install commercial-legal@claude-for-legal
-/plugin install corporate-legal@claude-for-legal
-/plugin install privacy-legal@claude-for-legal
-/plugin install ip-legal@claude-for-legal
-/plugin install ai-governance-legal@claude-for-legal
-/plugin install litigation-legal@claude-for-legal
+/plugin install commercial-legal@legal-mrchinh189
+/plugin install corporate-legal@legal-mrchinh189
+/plugin install privacy-legal@legal-mrchinh189
+/plugin install ip-legal@legal-mrchinh189
+/plugin install ai-governance-legal@legal-mrchinh189
+/plugin install litigation-legal@legal-mrchinh189
 ```
 
 > **USER scope**, không phải project scope — nếu không, plugin không đọc được

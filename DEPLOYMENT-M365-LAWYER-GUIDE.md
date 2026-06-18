@@ -19,7 +19,7 @@ và Excel để rà hợp đồng và dựng bảng diligence.
 3. **Cài plugin của bạn** (chọn theo việc bạn làm) — khi hỏi scope, chọn
    **USER scope**:
    ```
-   /plugin install commercial-legal@claude-for-legal
+   /plugin install commercial-legal@legal-mrchinh189
    ```
 4. **Restart** Claude (bắt buộc — chưa restart thì lệnh chưa chạy).
 5. **Chạy setup** một lần, đưa Claude tài liệu mẫu của bạn (MSA đã ký, playbook):

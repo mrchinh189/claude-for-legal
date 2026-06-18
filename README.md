@@ -186,9 +186,9 @@ After install, skills fire automatically when relevant, slash commands are avail
 /plugin marketplace add <path-to-this-repo>
 
 # Install a plugin — pick the ones that match your practice
-/plugin install commercial-legal@claude-for-legal
-/plugin install privacy-legal@claude-for-legal
-/plugin install corporate-legal@claude-for-legal
+/plugin install commercial-legal@legal-mrchinh189
+/plugin install privacy-legal@legal-mrchinh189
+/plugin install corporate-legal@legal-mrchinh189
 
 # Restart Claude Code, then run setup for each plugin you installed.
 # This writes your practice profile to ~/.claude/plugins/config/claude-for-legal/<plugin>/CLAUDE.md
